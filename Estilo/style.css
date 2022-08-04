@@ -25,6 +25,10 @@ h2 {
     color: rgb(23, 23, 29);
 }
 
+img.lado1 {
+    float: middle;
+}
+
 img.lado {
     float: right;
 }
